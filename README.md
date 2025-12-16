@@ -79,14 +79,6 @@ npm run dev
 - **Collaborative Task Management**  
   Support shared tasks, comments, and real-time updates to enable team-based workflows.
 
-- **Personalized Productivity Insights**  
-  Use historical task data to provide AI-driven focus recommendations and weekly productivity summaries.
-
-- **Mobile-First & Offline Support**  
-  Improve mobile responsiveness and add offline-first capabilities with background synchronization.
-
 - **Third-Party Integrations**  
   Integrate with tools such as Google Calendar, Slack, or Notion for seamless task synchronization.
 
-- **Role-Based Dashboards & Analytics**  
-  Introduce role-based views for individuals and teams, along with advanced productivity analytics.
