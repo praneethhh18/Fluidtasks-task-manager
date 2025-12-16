@@ -1,4 +1,4 @@
-# FluidTasks - Intelligent Task Management 🚀
+# FluidTasks - Modern Intelligent Task Management 
 
 FluidTasks is a modern, full-stack productivity application built to demonstrate clean architecture, premium UI, and GenAI-inspired features. It combines a robust **FastAPI** backend with a polished **React** frontend.
 
