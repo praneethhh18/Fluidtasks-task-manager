@@ -81,7 +81,7 @@ export function Onboarding({ onComplete, initialData }) {
                                 <User className="absolute left-4 top-3.5 text-slate-500 group-focus-within:text-indigo-400 transition-colors w-5 h-5 pointer-events-none z-10" />
                                 <input
                                     type="text"
-                                    placeholder="Praneeth P K"
+                                    placeholder="Your Name"
                                     required
                                     className="w-full bg-slate-900/50 border border-white/10 focus:border-indigo-500/50 rounded-xl py-3 pl-14 pr-4 text-white placeholder:text-slate-600 focus:outline-none focus:ring-2 focus:ring-indigo-500/20 transition-all font-medium"
                                     value={formData.name}
@@ -96,7 +96,7 @@ export function Onboarding({ onComplete, initialData }) {
                                 <AtSign className="absolute left-4 top-3.5 text-slate-500 group-focus-within:text-indigo-400 transition-colors w-5 h-5 pointer-events-none z-10" />
                                 <input
                                     type="text"
-                                    placeholder="praneeth_pk"
+                                    placeholder="your_username"
                                     required
                                     className="w-full bg-slate-900/50 border border-white/10 focus:border-indigo-500/50 rounded-xl py-3 pl-14 pr-4 text-white placeholder:text-slate-600 focus:outline-none focus:ring-2 focus:ring-indigo-500/20 transition-all font-medium"
                                     value={formData.username}
