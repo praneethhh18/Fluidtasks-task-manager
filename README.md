@@ -44,6 +44,34 @@ FluidTasks is a modern, full-stack productivity application built to demonstrate
 - **Framer Motion**: For complex animations.
 - **Lucide React**: For beautiful, consistent iconography.
 
+Folder Structure
+
+```text
+fluid-tasks/
+├── backend/                  # Python FastAPI Backend
+│   ├── main.py              # Main application entry point & API routes
+│   ├── models.py            # Pydantic data models (Task, SubTask, etc.)
+│   ├── genai_service.py     # Logic for "AI" heuristic features
+│   └── requirements.txt     # Python dependencies
+│
+└── frontend/                 # React Frontend
+    ├── src/
+    │   ├── components/       # UI Components
+    │   │   ├── TaskBoard.jsx        # Main Dashboard
+    │   │   ├── TaskCard.jsx         # Individual Task Item
+    │   │   ├── Sidebar.jsx          # Navigation & Profile
+    │   │   ├── WorkplaceSection.jsx # App Dock (Gmail, etc.)
+    │   │   ├── Onboarding.jsx       # Welcome Flow
+    │   │   ├── ... (Other views)
+    │   ├── lib/
+    │   │   └── utils.js             # Tailwind class merger
+    │   ├── App.jsx           # Main Routing Logic
+    │   ├── main.jsx          # React Entry Point
+    │   └── api.js            # Axios Setup
+    ├── package.json
+    ├── tailwind.config.js
+    └── vite.config.js
+
 ## How to Run
 
 ### 1. Backend
