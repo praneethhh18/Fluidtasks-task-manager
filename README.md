@@ -1,16 +1,16 @@
-# FluidTasks - Modern Intelligent Task Management 
+# FluidTasks - Intelligent Task Management 
 
 FluidTasks is a modern, full-stack productivity application built to demonstrate clean architecture, premium UI, and GenAI-inspired features. It combines a robust **FastAPI** backend with a polished **React** frontend.
 
-## ✨ Key Features
+## Key Features
 
-### 🎨 Visual & UX Excellence
+### Visual & UX Excellence
 - **Premium Glassmorphism Design**: Modern, translucent UI components with subtle gradients.
 - **Dark Mode Support**: Fully responsive dark/light theme switching.
 - **Interactive Onboarding**: A dedicated welcome flow to capture user details (Name, Gender, Interests) and personalize the experience.
 - **Smooth Animations**: Powered by Framer Motion for delightful interactions (entry, exit, hover).
 
-### 🛠 Core Productivity
+### Core Productivity
 - **Task Board**: 
   - Add tasks with "Smart Priority" analysis.
   - Mark as complete with satisfying animations.
@@ -21,17 +21,17 @@ FluidTasks is a modern, full-stack productivity application built to demonstrate
   - **Customizable**: Add your own app shortcuts with auto-fetched favicons.
 - **Edit Profile**: Update your persona and interests anytime from the sidebar.
 
-### 🎮 Gamification
+### Gamification
 - **XP System**: Earn XP for every task completed.
 - **Level Up**: Visual notifications and sound effects when you level up.
 - **Streak Counter**: Tracks your daily activity.
 
-### 🧠 GenAI-Inspired Logic (Prototype)
+### GenAI-Inspired Logic (Prototype)
 - **Automatic Priority**: The backend heuristically assigns High/Medium/Low priority based on keywords (e.g., "urgent", "deadline").
 - **Task Breakdown**: "Break Down" button to split complex tasks into actionable steps.
 - **Smart Reminders**: Context-aware messages based on due dates.
 
-## 🏗 Tech Stack
+## Tech Stack
 
 ### Backend (Python FastAPI)
 - **FastAPI**: For high-performance, easy-to-read API endpoints.
@@ -44,7 +44,7 @@ FluidTasks is a modern, full-stack productivity application built to demonstrate
 - **Framer Motion**: For complex animations.
 - **Lucide React**: For beautiful, consistent iconography.
 
-## 🏃‍♂️ How to Run
+## How to Run
 
 ### 1. Backend
 ```bash
