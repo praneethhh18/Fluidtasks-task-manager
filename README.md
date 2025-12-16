@@ -64,3 +64,29 @@ npm run dev
 
 ---
 *Built as a showcase of Full-Stack Python + React capabilities.*
+
+Future Enhancements
+
+LLM Integration for Task Intelligence
+Replace rule-based heuristics with large language models to generate richer task breakdowns, more accurate priority reasoning, and context-aware productivity suggestions.
+
+User Authentication & Persistent Storage
+Introduce secure authentication and database-backed storage to persist tasks, user progress, preferences, and analytics across devices and sessions.
+
+Advanced Notification System
+Enable background notifications via email, push notifications, or mobile alerts so users receive reminders even when the application is not actively open.
+
+Collaborative Task Management
+Support shared tasks, comments, and real-time updates to enable team collaboration and multi-user workflows.
+
+Personalized Productivity Insights
+Leverage historical task data to deliver AI-driven insights, focus recommendations, and weekly productivity summaries tailored to individual work patterns.
+
+Mobile-First & Offline Support
+Improve mobile responsiveness and add offline-first functionality with background synchronization for seamless task management.
+
+Third-Party Integrations
+Integrate with external tools such as Google Calendar, Slack, or Notion to synchronize tasks, deadlines, and reminders across platforms.
+
+Role-Based Dashboards & Team Analytics
+Introduce role-based views for individuals, teams, and managers, along with advanced analytics to track productivity trends at scale.
