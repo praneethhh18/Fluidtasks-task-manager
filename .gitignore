@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv/
+venv/
+
+# Node modules and build outputs
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+
+# IDE/editor
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
