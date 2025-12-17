@@ -65,6 +65,12 @@ npm run dev
 ```
 *App runs at: `http://localhost:5173` (or similar port)*
 
+Onboarding Page  
+→ Home Page  
+→ Task Creation  
+→ Task Management
+
+
 ---
 *Built as a showcase of Full-Stack Python + React capabilities.*
 
