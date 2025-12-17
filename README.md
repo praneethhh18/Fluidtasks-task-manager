@@ -65,6 +65,7 @@ npm run dev
 ```
 *App runs at: `http://localhost:5173` (or similar port)*
 
+You can see frontend running with:
 Onboarding Page  
 → Home Page  
 → Task Creation  
