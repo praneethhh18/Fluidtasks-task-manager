@@ -1,6 +1,5 @@
 ## FluidTasks – Intelligent Task Management  
-🔗 [Replit Preview](https://replit.com) · 💻 [GitHub Repo](https://github.com/praneethhh18/Fluidtasks-task-manager)
-
+🔗 [Replit Preview Link](https://replit.com) 
 
 FluidTasks is a modern, full-stack productivity application built to demonstrate clean architecture, premium UI, and GenAI-inspired features. It combines a robust **FastAPI** backend with a polished **React** frontend.
 
