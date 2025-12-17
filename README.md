@@ -66,10 +66,11 @@ npm run dev
 *App runs at: `http://localhost:5173` (or similar port)*
 
 You can see frontend running with:
-Onboarding Page  
+Onboarding Page (for user interaction, can be implemented for real time authentication)
 → Home Page  
 → Task Creation  
 → Task Management
+....
 
 
 ---
